@@ -1,0 +1,11 @@
+heroku apps:create rockstar-bitstarter-s-mooc --remote staging-heroku
+heroku apps:create rockstar-bitstarter-mooc --remote production-heroku
+
+
+Creating rockstar-bitstarter-s-mooc... done, stack is cedar
+http://rockstar-bitstarter-s-mooc.herokuapp.com/ | git@heroku.com:rockstar-bitstarter-s-mooc.git
+Git remote staging-heroku added
+
+Creating rockstar-bitstarter-mooc... done, stack is cedar
+http://rockstar-bitstarter-mooc.herokuapp.com/ | git@heroku.com:rockstar-bitstarter-mooc.git
+Git remote production-heroku added
